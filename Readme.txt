@@ -1,4 +1,4 @@
-Extracting features from audio files for creating a data-set
+Extracting features from audio files for creating a data-set for training machine learning algorithms
 
 MATLAB code for extracting time, frequency and cepstral domain features from N number of .wav audio files and creating a feature data-set. The features are,
 
